@@ -1,0 +1,6 @@
+{
+	"name" : "lb",
+	"run_list" :[
+		"recipe[nginx]"
+	]
+}
